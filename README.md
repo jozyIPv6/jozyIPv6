@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=300&section=header&text=JustinaXiao&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=FFFFFF&desc=Full%20Stack%20Engineer%20|%20Mobile%20%26%20Web%20Specialist&descSize=22&descAlignY=58" />
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="left" width="60%" valign="middle">
+      <h1 style="font-size: 72px; margin: 0; color: #FF69B4;">JustinaXiao</h1>
+      <h3 style="margin: 10px 0; color: #00D9FF;">Full Stack Engineer | Mobile & Web Specialist</h3>
+      <p style="color: #888;">Building scalable cross-platform applications</p>
+    </td>
+    <td align="right" width="40%" valign="middle">
+      <img src="https://tenor.com/f7ZC014gRnF.gif" width="400" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
