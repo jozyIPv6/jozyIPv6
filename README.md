@@ -4,20 +4,28 @@
 
 <br/>
 
-<h3 align="center">
-  <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://justinaxiao.dev">Justina Xiao</a></b>
-  </samp>
-</h3>
+<!-- Terminal Style Header -->
+<div align="center">
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a full stack web & mobile application developer from <b>Shenzhen, China</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+```ascii
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   justina@github:~$ whoami                                          ║
+║   > Justina Xiao                                                    ║
+║                                                                      ║
+║   justina@github:~$ cat role.txt                                    ║
+║   > Full Stack Web & Mobile Application Developer                   ║
+║                                                                      ║
+║   justina@github:~$ pwd                                             ║
+║   > /home/justina/Shenzhen/China                                    ║
+║                                                                      ║
+║   justina@github:~$ echo $STATUS                                    ║
+║   > Building digital experiences • One commit at a time             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <p align="center">
  <a href="https://justinaxiao.dev" target="blank">
@@ -45,19 +53,54 @@
 
 <br>
 
-# About me
- 
-<p>
- <img align="right" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy programming and building scalable applications <br/><br/>
- ❤️ &emsp; Love to write clean code and learn new technologies<br/><br/>
- 📧 &emsp; Reach me anytime: justinaxiao@example.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/justinaxiao/justinaxiao/issues)
+<!-- Modern About Me Section -->
+<div align="center">
 
-</p>
+## 👨‍💻 About Me
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I Do
+
+Building scalable applications that solve real-world problems. I specialize in creating seamless user experiences across web and mobile platforms, with a focus on performance, maintainability, and clean architecture.
+
+### 💡 Core Values
+
+**Code Quality** — Writing clean, testable, and maintainable code  
+**Innovation** — Always exploring new technologies and best practices  
+**Collaboration** — Sharing knowledge and growing together  
+**Impact** — Building products that matter
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Facts
+
+```typescript
+const justina = {
+  location: "Shenzhen, China 🇨🇳",
+  role: "Full Stack Developer",
+  focus: ["Web", "Mobile", "Cloud"],
+  languages: ["TypeScript", "JavaScript", "Dart"],
+  motto: "Ship fast, iterate faster",
+  availability: "Open for opportunities"
+};
+```
+
+### 📫 Get In Touch
+
+**Email:** justinaxiao@example.com  
+**GitHub:** [@justinaxiao](https://github.com/justinaxiao)  
+**Ask me:** [Create an issue](https://github.com/justinaxiao/justinaxiao/issues)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br/>
 <br/>
 
