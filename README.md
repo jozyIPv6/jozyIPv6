@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=280&section=header&text=JustinaXiao&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Crafting%20Digital%20Excellence%20|%20Full%20Stack%20Architect&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=300&section=header&text=JustinaXiao&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Engineer%20|%20Mobile%20%26%20Web%20Specialist&descSize=22&descAlignY=58" />
 
 <br>
 
-<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Cloud+Native+Architecture+%7C+Microservices;Performance+Optimization+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Crafting+Scalable+Cross-Platform+Applications;Cloud+Architecture+%26+Performance+Engineering;Building+Beautiful+User+Experiences;Open+Source+Contributor+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <br>
 
-<!-- Premium Badges -->
 <p>
   <a href="https://github.com/justinaxiao">
-    <img src="https://img.shields.io/badge/Full%20Stack-Developer-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Full%20Stack%20%26%20Mobile-Engineer-00D9FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e" />
   </a>
   <a href="https://github.com/justinaxiao">
     <img src="https://img.shields.io/badge/Shenzhen-China-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
   </a>
   <a href="https://github.com/justinaxiao">
-    <img src="https://img.shields.io/badge/Status-Available-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Available-For%20Projects-success?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a2e" />
   </a>
 </p>
 
@@ -38,57 +36,78 @@
 
 <br>
 
-## 💼 About Me
+## About Me
 
 ```typescript
 const JustinaXiao = {
-  title: "Senior Full Stack Developer",
+  role: "Senior Full Stack Developer",
   company: "DeepSearchITL",
   location: "Shenzhen, Guangdong, China",
   
-  currentMission: [
-    "Architecting microservices that scale to millions",
-    "Building serverless solutions on AWS",
-    "Optimizing performance for blazing-fast UX",
-    "Contributing to open source communities"
-  ],
+  mission: {
+    primary: "Building robust, scalable applications across web and mobile platforms",
+    focus: [
+      "Performance-first architecture",
+      "Seamless user experiences",
+      "Cloud-native solutions",
+      "Cross-platform development"
+    ]
+  },
   
-  learningJourney: [
-    "Advanced Cloud Architecture Patterns",
-    "DevOps & Infrastructure as Code",
-    "Distributed Systems & Event-Driven Design",
-    "Performance Engineering & Optimization"
-  ],
-  
-  codeWith: {
-    frontend: {
-      frameworks: ["React", "Next.js 14", "Vue.js", "Svelte"],
-      languages: ["TypeScript", "JavaScript"],
-      styling: ["Tailwind CSS", "Sass", "Framer Motion"],
-      state: ["Zustand", "React Query", "Redux Toolkit"]
+  expertise: {
+    web: {
+      frontend: ["React", "Next.js 14", "Vue.js 3", "Svelte", "Astro"],
+      mobile: ["React Native", "Expo", "Flutter", "PWA"],
+      styling: ["Tailwind CSS", "Sass/SCSS", "Styled Components", "CSS Modules"],
+      animation: ["Framer Motion", "GSAP", "Lottie", "React Spring"],
+      state: ["Zustand", "Jotai", "React Query", "Redux Toolkit", "MobX"]
     },
+    
     backend: {
-      runtime: ["Node.js", "Deno"],
-      frameworks: ["NestJS", "Express", "Fastify"],
-      api: ["GraphQL", "tRPC", "REST"],
-      orm: ["Prisma", "TypeORM", "Drizzle"]
+      runtime: ["Node.js", "Deno", "Bun"],
+      frameworks: ["NestJS", "Express", "Fastify", "Hono", "Elysia"],
+      api: ["GraphQL", "tRPC", "REST", "WebSocket", "gRPC"],
+      orm: ["Prisma", "Drizzle", "TypeORM", "Mongoose"]
     },
+    
+    mobile: {
+      native: ["React Native", "Expo SDK", "Flutter"],
+      crossPlatform: ["Capacitor", "Ionic", "Tauri"],
+      tools: ["EAS Build", "CodePush", "Firebase App Distribution"]
+    },
+    
     database: {
-      sql: ["PostgreSQL", "MySQL"],
-      nosql: ["MongoDB", "Redis"],
-      cloud: ["Supabase", "Firebase", "PlanetScale"]
+      relational: ["PostgreSQL", "MySQL", "SQLite"],
+      nosql: ["MongoDB", "Redis", "DynamoDB"],
+      realtime: ["Supabase", "Firebase Realtime DB", "Socket.io"],
+      vector: ["Pinecone", "Weaviate"]
     },
+    
     cloud: {
-      providers: ["AWS", "Azure", "Vercel", "Cloudflare"],
-      tools: ["Docker", "Kubernetes", "Terraform"],
-      ci_cd: ["GitHub Actions", "Jenkins", "GitLab CI"]
+      providers: ["AWS (Lambda, S3, EC2, RDS)", "Azure", "Google Cloud"],
+      platform: ["Vercel", "Cloudflare Workers", "Railway", "Fly.io"],
+      containers: ["Docker", "Kubernetes", "Docker Swarm"],
+      iac: ["Terraform", "Pulumi", "AWS CDK"],
+      cicd: ["GitHub Actions", "GitLab CI", "Jenkins", "CircleCI"]
     }
   },
   
-  architecture: ["Microservices", "Serverless", "Event-Driven", "Monorepo"],
-  principles: ["Clean Code", "SOLID", "DRY", "KISS", "TDD", "CI/CD"],
+  advanced: {
+    architecture: ["Microservices", "Serverless", "Event-Driven", "CQRS"],
+    patterns: ["Clean Architecture", "Hexagonal", "DDD", "Repository Pattern"],
+    practices: ["TDD", "CI/CD", "Code Review", "Pair Programming"],
+    performance: ["Code Splitting", "Lazy Loading", "Caching Strategies", "CDN"],
+    monitoring: ["Sentry", "LogRocket", "DataDog", "New Relic"]
+  },
   
-  funFact: "I debug with console.log() and I'm not ashamed!"
+  currentlyExploring: [
+    "WebAssembly & Rust for Web",
+    "Edge Computing & Serverless at Scale",
+    "AI Integration in Modern Apps",
+    "Web3 & Blockchain Development"
+  ],
+  
+  codePhilosophy: "Clean code, tested code, shipped code"
 };
 ```
 
@@ -98,39 +117,50 @@ const JustinaXiao = {
 
 <br>
 
-## 🛠️ Tech Arsenal
+## Technology Stack
 
 <div align="center">
 
-### Frontend Development
+### Web Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend Development
+### Mobile Development
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### Backend & API
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### Database & Storage
 
@@ -138,33 +168,44 @@ const JustinaXiao = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### Testing & Quality
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Testing & Quality Assurance
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### Monitoring & Analytics
+
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ### Tools & Environment
 
@@ -173,7 +214,7 @@ const JustinaXiao = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -183,16 +224,14 @@ const JustinaXiao = {
 
 <br>
 
-## 📊 GitHub Statistics
+## GitHub Analytics
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinaxiao&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
 </div>
 
 <br>
 
-<!-- Trophy -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=justinaxiao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
 </div>
@@ -203,7 +242,7 @@ const JustinaXiao = {
 
 <br>
 
-## 🎯 Current Focus
+## Areas of Focus
 
 <table align="center">
   <tr>
@@ -211,36 +250,36 @@ const JustinaXiao = {
       <br>
       <img src="https://skillicons.dev/icons?i=react,nextjs,typescript" />
       <br><br>
-      <b>Modern Frontend</b>
+      <strong>Modern Web</strong>
       <br>
-      <sub>Building next-gen UIs</sub>
+      <sub>Server-side rendering, static generation, and progressive web apps</sub>
       <br><br>
     </td>
     <td align="center" width="25%">
       <br>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+      <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
       <br><br>
-      <b>Cloud Architecture</b>
+      <strong>Mobile Apps</strong>
       <br>
-      <sub>Scalable serverless systems</sub>
-      <br><br>
-    </td>
-    <td align="center" width="25%">
-      <br>
-      <img src="https://skillicons.dev/icons?i=graphql,nodejs,docker" />
-      <br><br>
-      <b>Microservices</b>
-      <br>
-      <sub>Event-driven architecture</sub>
+      <sub>Cross-platform development with native performance</sub>
       <br><br>
     </td>
     <td align="center" width="25%">
       <br>
-      <img src="https://skillicons.dev/icons?i=github,git,vscode" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
       <br><br>
-      <b>Open Source</b>
+      <strong>Cloud Native</strong>
       <br>
-      <sub>Community contributions</sub>
+      <sub>Scalable infrastructure and serverless architecture</sub>
+      <br><br>
+    </td>
+    <td align="center" width="25%">
+      <br>
+      <img src="https://skillicons.dev/icons?i=graphql,nodejs,prisma" />
+      <br><br>
+      <strong>Backend Systems</strong>
+      <br>
+      <sub>APIs, microservices, and real-time communication</sub>
       <br><br>
     </td>
   </tr>
@@ -252,25 +291,25 @@ const JustinaXiao = {
 
 <br>
 
-## 💡 Development Philosophy
+## Development Principles
 
 <div align="center">
-
-### "Code is like humor. When you have to explain it, it's bad."
-
-<sub>— Cory House</sub>
 
 <br>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   Clean Code > Clever Code                                   ║
-║   Simple Solutions > Complex Solutions                       ║
-║   User Experience > Developer Experience > Everything Else   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Write code that humans can understand                      │
+│  Test early, test often, test automatically                 │
+│  Ship fast, iterate faster                                  │
+│  Performance is a feature, not an afterthought              │
+│  Documentation is love for your future self                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+<br>
 
 </div>
 
@@ -280,7 +319,7 @@ const JustinaXiao = {
 
 <br>
 
-## 📬 Connect With Me
+## Let's Connect
 
 <div align="center">
 
@@ -294,20 +333,19 @@ const JustinaXiao = {
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/justinaxiao)
 
 <br>
+
+<sub>Open for freelance projects, technical consultations, and collaboration opportunities</sub>
+
+<br>
 <br>
 
-### Open for collaborations, freelance projects, and interesting conversations!
-
-<br>
-
-<sub>Building the future, one commit at a time | Always learning, always growing</sub>
+<sub>Building digital experiences that matter • One commit at a time</sub>
 
 </div>
 
 <br>
 <br>
 
-<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -318,7 +356,6 @@ const JustinaXiao = {
 
 <br>
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=150&section=footer" />
 
 </div>
