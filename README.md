@@ -213,6 +213,34 @@ const justina = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D4A373)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-00D9FF?style=for-the-badge&logo=ai&logoColor=white)
+
+### Web3 & Blockchain
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-FF4785?style=for-the-badge&logo=rainbow&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
+
 </div>
 
 <br>
