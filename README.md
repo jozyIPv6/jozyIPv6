@@ -1,47 +1,43 @@
-<div align="center">
+<a href="https://komarev.com/ghpvc/?username=justinaxiao">
+  <img align="right" src="https://komarev.com/ghpvc/?username=justinaxiao&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="60%">
-      <h1>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=FF69B4&vCenter=true&width=500&lines=JustinaXiao" alt="JustinaXiao" />
-      </h1>
-      <h3>Full Stack Engineer | Mobile & Web Specialist</h3>
-      <p>Building scalable cross-platform applications</p>
-    </td>
-    <td align="right" width="40%">
-      <img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="350" alt="coding"/>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<br>
+<h3 align="center">
+  <samp>&gt; Hey There!, I am
+    <b><a target="_blank" href="https://justinaxiao.dev">Justina Xiao</a></b>
+  </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a full stack web & mobile application developer from <b>Shenzhen, China</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Crafting+Scalable+Cross-Platform+Applications;Cloud+Architecture+%26+Performance+Engineering;Building+Beautiful+User+Experiences;Open+Source+Contributor+%26+Tech+Enthusiast" alt="Typing SVG" />
+ <a href="https://justinaxiao.dev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="justinaxiao" />
+ </a>
+ <a href="https://linkedin.com/in/justinaxiao" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="justinaxiao"/>
+ </a>
+ <a href="https://twitter.com/justinaxiao" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/justinaxiao" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="justinaxiao" />
+ </a> 
 </p>
+<br />
+
+<div align="center">
 
 <br>
-
-<p>
-  <a href="https://github.com/justinaxiao">
-    <img src="https://img.shields.io/badge/Full%20Stack%20%26%20Mobile-Engineer-00D9FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://github.com/justinaxiao">
-    <img src="https://img.shields.io/badge/Shenzhen-China-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://github.com/justinaxiao">
-    <img src="https://img.shields.io/badge/Available-For%20Projects-success?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a2e" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=justinaxiao&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/justinaxiao?logo=github&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/justinaxiao?logo=github&style=for-the-badge&color=FFD700&labelColor=1a1a2e&label=Total%20Stars" alt="stars" />
-</p>
-
-</div>
 
 <br>
 
@@ -49,80 +45,25 @@
 
 <br>
 
-## About Me
+# About me
+ 
+<p>
+ <img align="right" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy programming and building scalable applications <br/><br/>
+ ❤️ &emsp; Love to write clean code and learn new technologies<br/><br/>
+ 📧 &emsp; Reach me anytime: justinaxiao@example.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/justinaxiao/justinaxiao/issues)
 
-```typescript
-const JustinaXiao = {
-  role: "Senior Full Stack Developer",
-  company: "DeepSearchITL",
-  location: "Shenzhen, Guangdong, China",
-  
-  mission: {
-    primary: "Building robust, scalable applications across web and mobile platforms",
-    focus: [
-      "Performance-first architecture",
-      "Seamless user experiences",
-      "Cloud-native solutions",
-      "Cross-platform development"
-    ]
-  },
-  
-  expertise: {
-    web: {
-      frontend: ["React", "Next.js 14", "Vue.js 3", "Svelte", "Astro"],
-      mobile: ["React Native", "Expo", "Flutter", "PWA"],
-      styling: ["Tailwind CSS", "Sass/SCSS", "Styled Components", "CSS Modules"],
-      animation: ["Framer Motion", "GSAP", "Lottie", "React Spring"],
-      state: ["Zustand", "Jotai", "React Query", "Redux Toolkit", "MobX"]
-    },
-    
-    backend: {
-      runtime: ["Node.js", "Deno", "Bun"],
-      frameworks: ["NestJS", "Express", "Fastify", "Hono", "Elysia"],
-      api: ["GraphQL", "tRPC", "REST", "WebSocket", "gRPC"],
-      orm: ["Prisma", "Drizzle", "TypeORM", "Mongoose"]
-    },
-    
-    mobile: {
-      native: ["React Native", "Expo SDK", "Flutter"],
-      crossPlatform: ["Capacitor", "Ionic", "Tauri"],
-      tools: ["EAS Build", "CodePush", "Firebase App Distribution"]
-    },
-    
-    database: {
-      relational: ["PostgreSQL", "MySQL", "SQLite"],
-      nosql: ["MongoDB", "Redis", "DynamoDB"],
-      realtime: ["Supabase", "Firebase Realtime DB", "Socket.io"],
-      vector: ["Pinecone", "Weaviate"]
-    },
-    
-    cloud: {
-      providers: ["AWS (Lambda, S3, EC2, RDS)", "Azure", "Google Cloud"],
-      platform: ["Vercel", "Cloudflare Workers", "Railway", "Fly.io"],
-      containers: ["Docker", "Kubernetes", "Docker Swarm"],
-      iac: ["Terraform", "Pulumi", "AWS CDK"],
-      cicd: ["GitHub Actions", "GitLab CI", "Jenkins", "CircleCI"]
-    }
-  },
-  
-  advanced: {
-    architecture: ["Microservices", "Serverless", "Event-Driven", "CQRS"],
-    patterns: ["Clean Architecture", "Hexagonal", "DDD", "Repository Pattern"],
-    practices: ["TDD", "CI/CD", "Code Review", "Pair Programming"],
-    performance: ["Code Splitting", "Lazy Loading", "Caching Strategies", "CDN"],
-    monitoring: ["Sentry", "LogRocket", "DataDog", "New Relic"]
-  },
-  
-  currentlyExploring: [
-    "WebAssembly & Rust for Web",
-    "Edge Computing & Serverless at Scale",
-    "AI Integration in Modern Apps",
-    "Web3 & Blockchain Development"
-  ],
-  
-  codePhilosophy: "Clean code, tested code, shipped code"
-};
-```
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+
+
 
 <br>
 
