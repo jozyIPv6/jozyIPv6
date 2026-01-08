@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=300&section=header&text=JustinaXiao&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=gradient&desc=Full%20Stack%20Engineer%20|%20Mobile%20%26%20Web%20Specialist&descSize=22&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=300&section=header&text=JustinaXiao&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=FFFFFF&desc=Full%20Stack%20Engineer%20|%20Mobile%20%26%20Web%20Specialist&descSize=22&descAlignY=58" />
 
 <br>
 
@@ -356,6 +356,6 @@ const JustinaXiao = {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,33&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=150&section=footer" />
 
 </div>
