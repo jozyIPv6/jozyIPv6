@@ -1,14 +1,16 @@
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table width="100%">
   <tr>
-    <td align="left" width="60%" valign="middle">
-      <h1 style="font-size: 72px; margin: 0; color: #FF69B4;">JustinaXiao</h1>
-      <h3 style="margin: 10px 0; color: #00D9FF;">Full Stack Engineer | Mobile & Web Specialist</h3>
-      <p style="color: #888;">Building scalable cross-platform applications</p>
+    <td align="left" width="60%">
+      <h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=FF69B4&vCenter=true&width=500&lines=JustinaXiao" alt="JustinaXiao" />
+      </h1>
+      <h3>Full Stack Engineer | Mobile & Web Specialist</h3>
+      <p>Building scalable cross-platform applications</p>
     </td>
-    <td align="right" width="40%" valign="middle">
-      <img src="https://tenor.com/f7ZC014gRnF.gif" width="400" alt="coding gif"/>
+    <td align="right" width="40%">
+      <img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="350" alt="coding"/>
     </td>
   </tr>
 </table>
