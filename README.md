@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 💻 MY STACK
+# 💻 My Tech Stack
 
 </div>
 
@@ -211,7 +211,3 @@
 ![io_uring](https://img.shields.io/badge/io__uring-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,15,18,20&height=150&section=footer" />
