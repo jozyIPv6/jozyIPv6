@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,kafka,rabbitmq,nginx,express,fastify,nestjs,django,fastapi&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,kafka,rabbitmq,nginx,express,php,nestjs,django,fastapi&perline=13&theme=dark" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,grafana,prometheus,postman,vscode,idea,webstorm,androidstudio&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,vercel,netlify,grafana,prometheus,postman,vscode,idea,webstorm,androidstudio&perline=13&theme=dark" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wasm,figma,blender,unity,unreal,godot,threejs,arduino,raspberrypi,latex,md,php,vim&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=wasm,figma,blender,unity,unreal,godot,threejs,arduino,raspberrypi,latex,md,vim,regex&perline=13&theme=dark" />
 </p>
 
 </div>
