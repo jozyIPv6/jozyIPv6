@@ -25,15 +25,15 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,grafana,prometheus,nginx,postman,vscode,idea,webstorm&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify,grafana,prometheus,postman,vscode,idea,webstorm,androidstudio&perline=13&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,flask,spring,maven,gradle,jest,vitest,cypress,selenium,playwright,storybook&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,flask,spring,maven,gradle,jest,vitest,cypress,selenium,pnpm,yarn&perline=13&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wasm,figma,blender,unity,unreal,godot,threejs,arduino,raspberrypi,latex,markdown,regex,vim&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=wasm,figma,blender,unity,unreal,godot,threejs,arduino,raspberrypi,latex,md,php,vim&perline=13&theme=dark" />
 </p>
 
 </div>
